@@ -1,0 +1,35 @@
+form {
+    padding-top: 100px;
+}
+
+#TextBox {
+    border: none;
+    display: block;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+}
+
+#AddButton {
+    display: block;
+    margin: auto;
+    background: transparent;
+    border-radius: 51%;
+    background-color: bisque;
+    width: 22%;
+    height: 475px;
+    font-size: 30px;
+}
+
+#reagain {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 158px;
+    background: transparent;
+    border: none;
+    background-color: #f7e8e3;
+    height: 45px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
